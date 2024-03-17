@@ -8,5 +8,6 @@ public partial class NewContactPage : ContentPage
 	{
         InitializeComponent();
         BindingContext = vm;
+        // asdasd
     }
 }
